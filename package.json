@@ -2,9 +2,7 @@
   "name": "gulp-v4",
   "description": "The streaming build system",
   "version": "4.0.0-alpha.3",
-  "homepage": "http://gulpjs.com",
-  "repository": "gulpjs/gulp",
-  "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+  "repository": "ratson/gulp-v4",
   "tags": [
     "build",
     "stream",
