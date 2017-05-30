@@ -1,6 +1,6 @@
 {
   "name": "gulp-v4",
-  "description": "The streaming build system",
+  "description": "Use `gulp` v4 today without `git` installed.",
   "version": "4.0.0-alpha.3",
   "repository": "ratson/gulp-v4",
   "tags": [
