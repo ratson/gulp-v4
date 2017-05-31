@@ -7,6 +7,20 @@
 
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![Gitter chat][gitter-image]][gitter-url]
 
+## This is a fork
+
+Use `gulp` v4 today without `git` installed, issues and pull request should submit to the [upstream](https://github.com/gulpjs/gulp).
+
+To use global `gulp` command, install [`better-gulp-cli`](https://github.com/ratson/better-gulp-cli) and add the following config to `package.json`,
+
+```json
+{
+  "gulp-cli": {
+    "package": "gulp-v4"
+  }
+}
+```
+
 ## What is gulp?
 
 - **Automation** - gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow.
