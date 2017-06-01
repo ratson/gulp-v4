@@ -49,5 +49,11 @@
   "engines": {
     "node": ">= 7"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "v4",
+    "build",
+    "tool"
+  ]
 }
