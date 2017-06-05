@@ -3,7 +3,9 @@
   "description": "Use `gulp` v4 today without `git` installed.",
   "version": "4.0.0-alpha.4",
   "repository": "ratson/gulp-v4",
-  "tags": [
+  "keywords": [
+    "gulp",
+    "v4",
     "build",
     "stream",
     "system",
@@ -49,11 +51,5 @@
   "engines": {
     "node": ">= 7"
   },
-  "license": "MIT",
-  "keywords": [
-    "gulp",
-    "v4",
-    "build",
-    "tool"
-  ]
+  "license": "MIT"
 }
