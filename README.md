@@ -37,7 +37,7 @@ For a Getting started guide, API docs, recipes, making a plugin, etc. see the [d
 This file is just a quick sample to give you a taste of what gulp does.
 
 ```js
-var gulp = require('gulp');
+var gulp = require('gulp-v4');
 var less = require('gulp-less');
 var babel = require('gulp-babel');
 var concat = require('gulp-concat');
