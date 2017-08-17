@@ -1,7 +1,7 @@
 {
   "name": "gulp-v4",
   "description": "Use `gulp` v4 today without `git` installed.",
-  "version": "4.0.0-alpha.4",
+  "version": "4.0.0-alpha.5",
   "repository": "ratson/gulp-v4",
   "keywords": [
     "gulp",
