@@ -11,15 +11,7 @@
 
 Use `gulp` v4 today without `git` installed, issues and pull request should submit to the [upstream](https://github.com/gulpjs/gulp).
 
-To use global `gulp` command, install [`better-gulp-cli`](https://github.com/ratson/better-gulp-cli) and add the following config to `package.json`,
-
-```json
-{
-  "gulp-cli": {
-    "package": "gulp-v4"
-  }
-}
-```
+To use global `gulp` command with `gulp-v4`, install [`better-gulp-cli`](https://github.com/ratson/better-gulp-cli).
 
 ## What is gulp?
 
